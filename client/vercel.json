@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://chat-app-7qcm.onrender.com/api/:path*"
+    }
+  ]
+}
