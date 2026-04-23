@@ -3,7 +3,7 @@
 > A full-stack real-time chat application built with the MERN stack and Socket.io.  
 > Made with ❤️ as a learning project.
 
-![App Preview](https://chat-app-wine-rho.vercel.app)
+link - (https://chat-app-wine-rho.vercel.app)
 
 ## 🌐 Live Demo
 
